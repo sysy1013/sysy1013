@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sysy1013
-- 👀 I’m interested in front-end, back-end
-- 🌱 I’m currently learning react, vue
+- 👀 <!--I’m interested in front-end, back-end-->
+- 🌱 <!--I’m currently learning react, vue-->
 - 📫 How to reach me tlgud1013@gmail.com
 
 <!---
